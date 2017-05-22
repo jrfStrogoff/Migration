@@ -1,0 +1,6 @@
+files/*
+.idea/*
+*.pyc
+.gitignore
+/files/
+.idea/
